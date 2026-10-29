@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Tell me about yourself.",
+    "answer": "Replace this text with your own introduction: experience, strengths and the role you are looking for.",
+    "aliases": ["Could you introduce yourself?", "Walk me through your background."],
+    "tags": ["introduction", "experience"]
+  },
+  {
+    "question": "How do you troubleshoot a technical problem?",
+    "answer": "I define the symptoms, collect evidence, isolate the cause, test a solution and document the result.",
+    "aliases": ["What is your troubleshooting process?"],
+    "tags": ["troubleshooting", "method"]
+  }
+]

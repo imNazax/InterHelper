@@ -1,0 +1,36 @@
+# Local environments and downloaded models
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+models/
+.cache/
+
+# Generated packages and build artifacts
+.build/
+build/
+dist/
+*.AppImage
+*.zip
+*.tar.gz
+
+# Local preferences, personal guides and development notes
+interhelper_settings.json
+interhelper_settings.json.tmp
+guias/
+guides/
+InterHelper_Prompt_Completo.md
+
+# Python and tools
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+work/
+outputs/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

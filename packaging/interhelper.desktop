@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=InterHelper
+Comment=Asistente local de entrevistas
+Exec=InterHelper
+Icon=interhelper
+Categories=Utility;
+Terminal=false

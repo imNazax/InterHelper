@@ -1,0 +1,8 @@
+# Keep the text-only API used by the guide reader; 2.x adds Layout assets.
+PyMuPDF==1.26.7
+faster-whisper>=1.0.0
+rapidfuzz>=3.6.0
+numpy>=1.24.0
+PyAudioWPatch>=0.2.12.6; sys_platform == "win32"
+SoundCard>=0.4.3,<0.5; sys_platform == "linux"
+psutil>=5.9.0
